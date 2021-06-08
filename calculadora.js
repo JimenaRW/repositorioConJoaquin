@@ -1,1 +1,3 @@
-const process = require ('process');
+let sumar = require('./sumar')
+
+console.log(1,5);
