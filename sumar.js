@@ -1,4 +1,3 @@
-let calculadora = {
+module.exports = {
     sumar : (a,b) => a+b
 }
-module.exports = calculadora
